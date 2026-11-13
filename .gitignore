@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pth
+*.mat
+*.npy
+*.npz
+*.zip
+data/
+checkpoints/
+outputs/
+.DS_Store
